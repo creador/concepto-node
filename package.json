@@ -1,0 +1,35 @@
+{
+  "name": "concepto-node",
+  "version": "1.0.0",
+  "description": "Concepto DSL Compiler - in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creador/concepto-node.git"
+  },
+  "keywords": [
+    "creador",
+    "concepto",
+    "dsl",
+    "compiler",
+    "mobile",
+    "native"
+  ],
+  "author": "Pablo Schaffner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creador/concepto-node/issues"
+  },
+  "homepage": "https://github.com/creador/concepto-node#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
+    "directory-tree": "^1.2.0",
+    "minimist": "^1.2.0",
+    "underscore": "^1.8.3",
+    "wait.for": "^0.6.6"
+  }
+}
